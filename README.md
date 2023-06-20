@@ -26,7 +26,7 @@ This repository contains the research and documentation for a thesis project foc
 The contents of this repository are intended for academic and research purposes. Please note that any attempt to use this information for unauthorized activities or to exploit vulnerabilities is strictly prohibited and may have legal consequences.
 
 ## Acknowledgments:
-We would like to express our gratitude to the thesis advisor and the academic institution for their support and guidance throughout this research project.
+I would like to express our gratitude to the thesis advisor and the academic institution for their support and guidance throughout this research project.
 
 ## License:
 This project is licensed under NO LICENSE. Please refer to the LICENSE file for more information.
