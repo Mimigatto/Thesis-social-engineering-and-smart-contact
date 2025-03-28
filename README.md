@@ -2,10 +2,10 @@
 
 # README
 
-## Title: Social Engineering and Smart Contact Lenses
+## Title: Social Engineering and Smart Contracts: Unveiling Vulnerabilities and Fortifying Defenses in Industrial Applications
 
 ## Description:
-This repository contains the research and documentation for a thesis project focused on exploring the intersection of social engineering and smart contact lenses. The thesis aims to analyze the potential vulnerabilities arising from social engineering attacks on smart contact lenses, and propose mitigation strategies to enhance their security and privacy.
+This repository contains the research and documentation for a thesis project focused on exploring the intersection of Social Engineering and Smart Contracts: Unveiling Vulnerabilities and Fortifying Defenses in Industrial Applications. The thesis aims to analyze the potential vulnerabilities arising from social engineering attacks on smart contact lenses, and propose mitigation strategies to enhance their security and privacy.
 
 ## Contents:
 - **Literature Review**: This section includes a comprehensive review of existing literature on social engineering techniques, case studies, and their implications in various contexts, with a specific focus on wearable devices and emerging technologies.
